@@ -1,6 +1,8 @@
 # Witch Hazel (Hypercolor) Ghostty
 Witch Hazel Hypercolor for Ghostty.
 
+<img width="120" height="154" alt="Witch" src="https://github.com/user-attachments/assets/4f16347b-407a-4bd0-a302-6033ad2bf911" />
+
 * [Ghostty for macOS and Linux](https://ghostty.org/)
 
 * [Witch Hazel color scheme](https://witchhazel.thea.codes/)
