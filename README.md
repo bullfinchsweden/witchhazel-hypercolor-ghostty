@@ -1,2 +1,2 @@
-# witchhazel-hypercolor-ghostty
+# Witch Hazel (Hypercolor) Ghostty
 Witch Hazel Hypercolor for Ghostty.
