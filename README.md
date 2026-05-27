@@ -9,7 +9,7 @@ Witch Hazel Hypercolor for Ghostty.
 
 * [Witch Hazel for Firefox](https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Witch-Hazel-Themes/)<br/>
 
-Place files in ~/.config/ghostty/themes/ (create folders if non-existing).
+Place file in ~/.config/ghostty/themes/ (create folders if non-existing).
 
 *Witch Hazel Hypercolor*
 
