@@ -5,9 +5,7 @@ Witch Hazel Hypercolor for Ghostty.
 
 * [Ghostty for macOS and Linux](https://ghostty.org/)
 
-* [Witch Hazel color scheme](https://witchhazel.thea.codes/)
-
-* [Witch Hazel for Firefox](https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Witch-Hazel-Themes/)<br/>
+* [Witch Hazel color scheme](https://witchhazel.thea.codes/)<br/>
 
 Place file in ~/.config/ghostty/themes/ (create folders if non-existing).
 
