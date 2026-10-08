@@ -7,6 +7,8 @@ Witch Hazel Hypercolor for Ghostty.
 
 * [Witch Hazel](https://witchhazel.thea.codes/)<br/>
 
+<img src="Images/WitchHazel.jpg" width="768" height="320" /><br/>
+
 Place file in ~/.config/ghostty/themes/ (create folders if non-existing).
 
 *Witch Hazel Hypercolor*
