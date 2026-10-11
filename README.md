@@ -1,4 +1,4 @@
-# Witch Hazel (Hypercolor) Ghostty
+# Witch Hazel (Hypercolor) Ghostty 🧙🏻‍♀️
 Witch Hazel Hypercolor for Ghostty.
 
 <img src="Images/Ghostty.jpg"><br/>
