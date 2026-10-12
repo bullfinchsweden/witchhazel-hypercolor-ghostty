@@ -13,6 +13,4 @@ Place file in ~/.config/ghostty/themes/ (create folders if non-existing).
 
 *Witch Hazel Hypercolor*
 
-<img src="Images/WitchHazelHypercolorColors1.png" width="260" height="82" /><br/>
-
-<img src="Images/WitchHazelHypercolorColors2.png" width="785" height="399" />
+<img src="Images/WitchHazelHypercolorGhostty.png" width="764.5" height="376.5" />
